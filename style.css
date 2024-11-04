@@ -412,6 +412,12 @@
         font-weight: 700;
     }
 
+    .line{
+        background: black;
+        height: 0.1rem;
+        margin: 0.5rem 0.2rem;
+    }
+
     .location-info p {
         margin-bottom: 5px;
         color: #111;
