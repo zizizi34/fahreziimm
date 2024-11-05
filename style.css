@@ -31,9 +31,6 @@
         align-items: center;
         z-index: 100;
     }
-    /* .header.blur {
-        backdrop-filter: blur(10px) brightness(0.5);
-    } */
     .logo {
         align-items: center;
         text-decoration: none;
