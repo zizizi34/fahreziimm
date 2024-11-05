@@ -24,16 +24,16 @@
         width: 100%;
         padding: 20px 2% 20px 10%;
         background: transparent;
-        backdrop-filter: brightness(.5);
+        background-color: #111;
+        /* backdrop-filter: brightness(.5); */
         display: flex;
         justify-content: space-between;
         align-items: center;
         z-index: 100;
     }
-    .header.blur {
-        backdrop-filter: blur(10px) brightness(0.5); /* Blur dan kecerahan */
-
-    }
+    /* .header.blur {
+        backdrop-filter: blur(10px) brightness(0.5);
+    } */
     .logo {
         align-items: center;
         text-decoration: none;
@@ -413,7 +413,7 @@
     }
 
     .line{
-        background: black;
+        background: black ;
         height: 0.1rem;
         margin: 0.5rem 0.2rem;
     }
